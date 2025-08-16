@@ -1,0 +1,10 @@
+heart-ml-pipeline/
+│
+├─ data/                ← (فيه الداتا heart.csv)
+├─ src/                 ← (الأكواد بتاعة التنظيف + التدريب + التقييم)
+├─ models/              ← (الموديل المتسيف best_model.pkl)
+├─ outputs/             ← (الرسومات + النتائج)
+├─ app/                 ← (الـ Streamlit UI)
+│
+├─ requirements.txt     ← (المكتبات المطلوبة)
+└─ README.md            ← (شرح المشروع + خطوات التشغيل)
